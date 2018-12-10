@@ -1,0 +1,4 @@
+#Below packages needed.
+#sudo apt-get install gstreamer1.0-tools
+#sudo apt-get install libboost-all-dev
+# + opencv v3.4 libs.  
